@@ -4,17 +4,18 @@ This repo is our submission for QCRI Generative AI Hackathon 2023 ([website](htt
 Write Project Name
 ====
 
-Write Team Name:
+Write Team Name: Arastu
 ==
-First Member (first_member@email.com)
-Second Memeber (second_member@email.com)
+Saad Farooq (saad749@yahoo.com)
+Sohaib Farooq (sohaibfarooq1998@hotmail.com)
+Syed Latifi
 
 Description
 ==
 This project is a template for submission to QCRI Generative AI Hackathon 2023. It does:
-1. submission should fork this project and update the README
-2. code and data should be contained in this repo
-3. README.md should keep the first and last line with reference to Generative AI Hackathon
+1. Solves the QCRI Socrates Assesment Challenge
+2. Due to huge size of data, it is not included. but it uses the pg_philosophy.json.zip file provided by the use case
+3. It should be placed at src\webapi\static
 4. submit by Saturday 3:30 with this form [https://forms.office.com/r/PUs9qpVNbf](https://forms.office.com/r/PUs9qpVNbf)
 
 
